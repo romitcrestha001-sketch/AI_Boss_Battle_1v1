@@ -1,0 +1,16 @@
+{
+  "counts": {
+    "idle": 680,
+    "retreat": 370,
+    "advance": 581,
+    "cross": 255,
+    "heavy_kick": 184,
+    "block": 322,
+    "jab": 261,
+    "dash": 61,
+    "jump": 58,
+    "kick": 185
+  },
+  "distance_sum": 2020473.52,
+  "distance_samples": 8662
+}
